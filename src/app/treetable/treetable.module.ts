@@ -10,7 +10,6 @@ export { Node, Options} from './models';
     TreetableComponent
   ],
   imports: [
-    BrowserAnimationsModule,
     MatTableModule,
     MatIconModule
   ],
